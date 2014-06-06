@@ -8,7 +8,7 @@ pip install randomstring
 
 ####Usage
 ```
-from randomstring.randomstring as rs
+import randomstring.randomstring as rs
 rs.generage(10) 
 
 ```
