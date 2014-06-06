@@ -9,6 +9,6 @@ pip install randomstring
 ####Usage
 ```
 import randomstring.randomstring as rs
-rs.generage(10) 
+rs.generate(10) 
 
 ```
