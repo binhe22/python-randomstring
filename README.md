@@ -1,12 +1,12 @@
-###Randomstring
+### Randomstring
 To generate a Randomstring.
 
-####Install
+#### Install
 ```
 pip install randomstring
 ```
 
-####Usage
+#### Usage
 ```
 import randomstring.randomstring as rs
 rs.generate(10) 
